@@ -1,11 +1,11 @@
 {
-    "IsOn": false,
+    "IsOn": true,
     "Lang": [30],
     "Timing": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Linki": 
     [ 
-          { "Lang":30, "Link": ""}
+          { "Lang":30, "Link": "https://redirect2slot.org/?s=35&ref=wp_w164086p143_FK&encoded_url=cmVnaXN0ZXI="}
     ]
  }
