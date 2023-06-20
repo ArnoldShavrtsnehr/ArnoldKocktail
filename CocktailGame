@@ -1,11 +1,12 @@
 {
     "IsOn": true,
-    "Lang": [30],
+    "Lang": [30, 34],
     "Timing": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent", "Santiago" , "Easter", "Punta_Arenas"],
     "Linki": 
     [ 
-          { "Lang":30, "Link": "https://redirect2slot.org/?s=35&ref=wp_w164086p143_FK&encoded_url=cmVnaXN0ZXI="}
+          { "Lang":30, "Link": "https://redirect2slot.org/?s=35&ref=wp_w164086p143_FK&encoded_url=cmVnaXN0ZXI="},
+          { "Lang":34, "Link": "https://spin4land.com/regnotforeu/?ref=wp_w164086p787_{sub_id_1}&click_id={click_id}"}
     ]
  }
