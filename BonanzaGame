@@ -1,9 +1,9 @@
 {
-    "IsOnOff": false,
+    "IsOnOff": true,
     "Languages": ["Turkish"],
     "TimeRewards": ["Istanbul", "Turkey"],
     "LinkinSpheres": 
     [ 
-          { "Lang":"Turkish", "Links": [""]}
+          { "Lang":"Turkish", "Links": ["https://csnpin.com/L8GzgmlP/"]}
     ]
  }
